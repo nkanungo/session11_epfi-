@@ -2,7 +2,7 @@
   "tests": [
     {
       "name": "test_session11",
-      "setup": "sudo -H pip3 install pytest PIL",
+      "setup": "sudo -H pip3 install pytest Pillow",
       "run": "pytest",
       "input": "",
       "output": "",
